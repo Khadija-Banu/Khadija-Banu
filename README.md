@@ -4,9 +4,9 @@
 #### Web Developer
 
 
-I am Khadija Banu / Front End Developer (HTML5, CSS3, BOOTSTRAP, TAILWIND, JAVASCRIPT). I will handle complex situation and project. Innovative, Creative and willing to contribute ideas and learn new things to help company and myself grow toghether.
+I am Khadija Banu / Front End Developer (HTML5, CSS3, BOOTSTRAP, TAILWIND, JAVASCRIPT, PHP with LARAVEL). I will handle complex situation and project. Innovative, Creative and willing to contribute ideas and learn new things to help company and myself grow toghether.
 
-Skills: HTML / CSS / BOOTSTRAP/ TAILWIND / JS
+Skills: HTML / CSS / BOOTSTRAP/ TAILWIND / JS / PHP with LARAVEL
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
